@@ -7,10 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/lingams044/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
