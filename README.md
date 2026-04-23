@@ -34,5 +34,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
+| [0181-employees-earning-more-than-their-managers](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0577-employee-bonus](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
