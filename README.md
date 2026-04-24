@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0181-employees-earning-more-than-their-managers](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0183-customers-who-never-order/) | Easy |
 | [0577-employee-bonus](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
