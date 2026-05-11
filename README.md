@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1848-minimum-distance-to-the-target-element](https://github.com/lingams044/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2833-furthest-point-from-origin](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
