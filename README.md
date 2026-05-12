@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0228-summary-ranges](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/lingams044/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
