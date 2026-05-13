@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0383-ransom-note](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0071-simplify-path](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
