@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Medium/0071-simplify-path/) | Medium |
 | [0383-ransom-note](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/0383-ransom-note/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Stack
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/lingams044/LeetCode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
